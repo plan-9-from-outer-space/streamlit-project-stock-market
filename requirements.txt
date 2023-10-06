@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+yfinance==0.2.31
+streamlit==1.26.0
+plotly==5.16.1
+altair==5.1.1
+pandas_datareader
